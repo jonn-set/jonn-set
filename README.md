@@ -1,7 +1,9 @@
 ### Hi there, I am Johnson 👋
 
 ---------------------
-<img alt="Linkedin Badge" src="https://img.shields.io/badge/-johnsonesta-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/johnsonesta/" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/johnsonesta/">
+   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-johnsonesta-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/johnsonesta/" style="max-width:100%;">
+  </a>
 
 ------------------
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" /> <img alt="WebDriverIO" src="https://img.shields.io/badge/WebDriverIO-EA5906.svg?&amp;style=for-the-badge&amp;logo=WebdriverIO&amp;logoColor=white" style="max-width:100%;"> <img alt="Node" src="https://img.shields.io/badge/-Node.js-%23339933?&amp;style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;"> <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-%230052CC?&amp;style=for-the-badge&amp;logo=JIRA&amp;logoColor=white" style="max-width:100%;"> <img alt="Java" src="https://img.shields.io/badge/-Java-%23007396?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white" style="max-width:100%;"> <img alt="Rest-Assured" src="https://img.shields.io/badge/-Rest%20Assured-4BA82E?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white" style="max-width:100%;"> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width:100%;"> 
